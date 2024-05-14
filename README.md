@@ -175,7 +175,7 @@ To see how you can add code snippets, see below:
 ```
 
 ## Author
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Hanzo](https://664313bb82395faa37815bbe--harmonious-fudge-12124e.netlify.app/)
 
 - Frontend Mentor - [@Hanzo_q](https://www.frontendmentor.io/profile/Hanzo
 
